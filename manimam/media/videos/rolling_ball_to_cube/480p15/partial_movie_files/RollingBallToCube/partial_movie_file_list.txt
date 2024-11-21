@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/1185818338_1502411237_2445240629.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1959358871_1359243299.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1959358871_3038107324.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1959358871_1489718581.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1959358871_987269141.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1959358871_3155766055.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_3631824766_1693592562.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/rolling_ball_to_cube/480p15/partial_movie_files/RollingBallToCube/624642324_1141282389_1217737002.mp4'

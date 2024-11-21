@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/manim_test/480p15/partial_movie_files/CircleToYankee/1185818338_2675152598_223132457.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/manim_test/480p15/partial_movie_files/CircleToYankee/624642324_3890345977_2870193269.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/manim_test/480p15/partial_movie_files/CircleToYankee/624642324_3433173234_3314600553.mp4'
-file 'file:C:/Users/Temka/Desktop/Fubuzilla/Project/Python/python_project/manimam/media/videos/manim_test/480p15/partial_movie_files/CircleToYankee/624642324_1141282389_2706531880.mp4'
